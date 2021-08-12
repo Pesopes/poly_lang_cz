@@ -4,7 +4,7 @@
   "startmenu.multiplayer": "ONLINE",
   "startmenu.resume_game": "POKRAČOVAT",
   "startmenu.settings": "Nastavení",
-  "startmenu.high_score": "Žebříček",
+  "startmenu.high_score": "Žebříčky",
   "startmenu.throne_room": "Statistiky",
   "startmenu.about": "O hře",
 
@@ -700,6 +700,10 @@
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
 
+  "settings.showadvanced": "SETTINGS",
+  "settings.hideadvanced": "SETTINGS",
+  "settings.scale": "SETTINGS",
+  
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
   "settings.soundeffects": "Sound Effects",
