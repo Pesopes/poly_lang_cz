@@ -87,6 +87,9 @@
   "gamesettings.size.tiles": "{0} tiles map.",
   "gamesettings.continue": "CONTINUE",
 
+  "gamemode.custom.caps": "CUSTOM",
+  "gamemode.custom.description": "PLACEHOLDER desc",
+
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
   "gamemode.perfection.description.button": "Show your skills on the global hiscore in the classic 30 turns game.",
