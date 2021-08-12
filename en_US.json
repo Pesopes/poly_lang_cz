@@ -8,6 +8,23 @@
   "startmenu.throne_room": "Statistiky",
   "startmenu.about": "O hře",
 
+
+  "gamemode.custom.caps": "CUSTOM",
+  "gamemode.custom.description.button": "PLACEHOLDER button desc",
+
+
+  "tribes.cymanti": "Cymanti",
+  "tribes.cymanti.info": "ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}",
+
+  "settings.hideadvanced": "hide",
+  "settings.showadvanced": "show",
+
+  "settings.scale.auto": "SETTINGS auto",
+  "settings.scale.small": "SETTINGS small",
+  "settings.scale.medium": "SETTINGS medium",
+  "settings.scale.large": "SETTINGS large",
+  "settings.scale.verylarge": "SETTINGS verylarge",
+
   "news.title": "POLYTOPIA ZPRÁVY",
   "news.description": "Vítame tě!\nZde najdeš nejnovější zprávy ze světa Polytopie Stay tuned! ",
   "gamemodepicker.title": "HERNÍ MÓD",
@@ -87,8 +104,6 @@
   "gamesettings.size.tiles": "{0} tiles map.",
   "gamesettings.continue": "CONTINUE",
 
-  "gamemode.custom.caps": "CUSTOM",
-  "gamemode.custom.description.button": "PLACEHOLDER button desc",
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
@@ -199,8 +214,6 @@
   "tribes.polaris": "Polaris",
   "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
 
-  "tribes.cymanti": "Cymanti",
-  "tribes.cymanti.info": "ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}",
 
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
@@ -707,14 +720,7 @@
   "gamestatus.tasks.complete": "Complete!",
 
 
-  "settings.hideadvanced": "hide",
-  "settings.showadvanced": "show",
 
-  "settings.scale.auto": "SETTINGS auto",
-  "settings.scale.small": "SETTINGS small",
-  "settings.scale.medium": "SETTINGS medium",
-  "settings.scale.large": "SETTINGS large",
-  "settings.scale.verylarge": "SETTINGS verylarge",
 
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
