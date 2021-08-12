@@ -4,7 +4,7 @@
   "startmenu.multiplayer": "ONLINE",
   "startmenu.resume_game": "POKRAČOVAT",
   "startmenu.settings": "Nastavení",
-  "startmenu.high_score": "Žebříčky",
+  "startmenu.high_score": "Žebříček",
   "startmenu.throne_room": "Statistiky",
   "startmenu.about": "O hře",
 
@@ -48,13 +48,6 @@
   "tribepicker.mapsize": "Map Size: {0} tiles",
   "tribepicker.gamemode": "Game Mode: {0}",
 
-  "gamesettings.map": "PLACEHOLDER MAP TYPE",
-  "gamesettings.map.dryland": "PLACEHOLDER ",
-  "gamesettings.map.lakes": "PLACEHOLDER ",
-  "gamesettings.map.continents": "PLACEHOLDER ",
-  "gamesettings.map.archipelago": "PLACEHOLDER ",
-  "gamesettings.map.waterworld": "PLACEHOLDER ",
-
   "gamesettings.title": "GAME SETUP",
   "gamesettings.yourname": "Your name",
   "gamesettings.anonymous": "Anonymous",
@@ -83,8 +76,6 @@
   "gamesettings.size.tiny": "Tiny",
   "gamesettings.size.normal": "Normal",
   "gamesettings.size.large": "Large",
-  "gamesettings.size.huge": "PLACEHOLDER huge",
-  "gamesettings.size.massive": "PLACEHOLDER massive",
   "gamesettings.size.disabled": "Not Available",
   "gamesettings.network": "Network",
   "gamesettings.network.online": "Online",
@@ -95,8 +86,6 @@
   "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",
   "gamesettings.size.tiles": "{0} tiles map.",
   "gamesettings.continue": "CONTINUE",
-
-
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
@@ -175,8 +164,8 @@
   "world.task.new": "You got a new Task!",
 
   "tribes.nature": "Nature",
-  "tribes.xinxi": "Xin-xi",
-  "tribes.xinxi.info": "They start their journey in the dense mountains, surrounded by beautiful cherry blossom.\n\n{0} starts the game with the '{1}' tech.",
+  "tribes.xin-xi": "Xin-xi",
+  "tribes.xin-xi.info": "They start their journey in the dense mountains, surrounded by beautiful cherry blossom.\n\n{0} starts the game with the '{1}' tech.",
   "tribes.imperius": "Imperius",
   "tribes.imperius.info": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
   "tribes.bardur": "Bardur",
@@ -206,8 +195,6 @@
   "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
   "tribes.polaris": "Polaris",
   "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-  "tribes.cymanti": "Cymanti",
-  "tribes.cymanti.info": "PLACEHOLDER",
 
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
@@ -281,9 +268,6 @@
   "unit.info.health": "Health",
   "unit.info.range": "Range",
   "unit.info.skills": "Skills",
-
-  "unit.names.shaman": "Shaman",
-
   "unit.names.giant": "Giant",
   "unit.names.crab": "Crab",
   "unit.names.egg": "Dragon Egg",
@@ -300,7 +284,7 @@
   "unit.names.catapult": "Catapult",
   "unit.names.archer": "Archer",
   "unit.names.priest": "Mind Bender",
-  "unit.names.swordsman": "Swordsman",
+  "unit.names.swordman": "Swordsman",
   "unit.names.amphibian": "Amphibian",
   "unit.names.tridention": "Tridention",
   "unit.names.dragon": "Baby Dragon",
@@ -311,9 +295,6 @@
   "unit.names.battlesled": "Battle Sled",
   "unit.names.fortress": "Ice Fortress",
   "unit.names.icearcher": "Ice Archer",
-
-  "unit.abilities.boost": "BOOST",
-
   "unit.ability": "ability",
   "unit.abilities.dash": "DASH",
   "unit.abilities.escape": "ESCAPE",
@@ -412,9 +393,6 @@
   "tooltip.unit.grow.later": "Will grow to {0} in {1} turns.",
   "tooltip.unit.decay.now": "This unit will dissolve at the end of this turn.",
   "tooltip.unit.decay.later": "This unit will dissolve in {0} turns.",
-
-  "tooltip.ability.boost": "PLACEHOLDER boost",
-
   "tooltip.ability.disband": "Remove any of your own units and get half of its cost in return.",
   "tooltip.ability.destroy": "Remove any building within your borders, great for reconstructing your empire.",
   "tooltip.ability.literacy": "Reduce the price of all technologies by 20%.",
@@ -568,11 +546,6 @@
   "technology.task": "{0} activates the {1} task",
   "technology.ability": "ability",
   "technology.ability.info": "{1} gives you the ability to {1}",
-
-  "technology.names.shock": "Shock",
-  "technology.names.hydrology": "Hydrology",
-  "technology.names.oceanology": "oceaonology",
-
   "technology.names.basic": "basic",
   "technology.names.riding": "Riding",
   "technology.names.freespirit": "Free Spirit",
@@ -614,8 +587,6 @@
   "techview.completed.info": "You have already researched this technology.",
   "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
   "techview.research": "RESEARCH",
-
-  "action.info.boost": "PLACeHOLDEr",
 
   "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
   "action.info.recover": "Recover",
@@ -667,7 +638,7 @@
   "endscreen.science": "Science",
   "endscreen.units": "{0} units, {1} tiles empire",
   "endscreen.culture": "{0} monuments, {1} temples",
-  "endscreen.citiescount": "{0} cities",
+  "endscreen.citiescount": "{0} cities",
   "endscreen.techscore": "{0}/{1} technologies researched",
   "endscreen.bonus": "Difficulty Bonus",
   "endscreen.finalscore": "FINAL SCORE",
@@ -728,15 +699,6 @@
   "gamestatus.destroyed": "destroyed",
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
-
-  "settings.showadvanced": "SETTINGS",
-  "settings.hideadvanced": "SETTINGS",
-  "settings.scale": "SETTINGS",
-  "settings.scale.auto": "SETTINGS",
-  "settings.scale.small": "SETTINGS",
-  "settings.scale.medium": "SETTINGS",
-  "settings.scale.large": "SETTINGS",
-  "settings.scale.verylarge": "SETTINGS",
 
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
