@@ -199,6 +199,9 @@
   "tribes.polaris": "Polaris",
   "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
 
+  "tribes.cymanti": "Cymanti",
+  "tribes.cymanti.info": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons!",
+
   "building.capital.owner": "{0} is the {1} capital",
   "building.capital.owner.former": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
   "building.city.owner": "{0} is a city in the {1} empire",
