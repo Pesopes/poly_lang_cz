@@ -12,6 +12,9 @@
   "gamemode.custom.caps": "CUSTOM",
   "gamemode.custom.description.button": "PLACEHOLDER button desc",
 
+  "gamemode.sandbox": "SANDBOX",
+  "gamemode.sandbox.description": "SANDBOX desc",
+
 
   "tribes.cymanti": "Cymanti",
   "tribes.cymanti.info": "ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}ALL HAIL {0}",
@@ -24,6 +27,17 @@
   "settings.scale.medium": "SETTINGS medium",
   "settings.scale.large": "SETTINGS large",
   "settings.scale.verylarge": "SETTINGS verylarge",
+  
+  "gamesettings.map": "map settings",
+  "gamesettings.map.dryland": "Dryland",
+  "gamesettings.map.lakes": "Lakes",
+  "gamesettings.map.continents": "Continents",
+  "gamesettings.map.archipelago": "Archipelago",
+  "gamesettings.map.waterworld": "Waterworld",
+
+  "gamesettings.size.huge": "Huge",
+  "gamesettings.size.massive": "MASSIVE",
+
 
   "news.title": "POLYTOPIA ZPRÁVY",
   "news.description": "Vítame tě!\nZde najdeš nejnovější zprávy ze světa Polytopie Stay tuned! ",
