@@ -88,7 +88,7 @@
   "gamesettings.continue": "CONTINUE",
 
   "gamemode.custom.caps": "CUSTOM",
-  "gamemode.custom.description": "PLACEHOLDER desc",
+  "gamemode.custom.description.button": "PLACEHOLDER button desc",
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
