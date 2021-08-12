@@ -98,13 +98,13 @@
 
   "gamemode.custom.caps": "PERFECTION",
   "gamemode.custom": "PERFECTION",
+  "gamemode.custom.description.button": "PERFECTION",
 
   "gamemode.sandbox.caps": "SANDBOX",
   "gamemode.sandbox": "Sandbox",
-  "gamemode.sandbox.description.button": "PLACEHOLDER",
+
   "gamemode.sandbox.description": "PLCEHOLDER desc",
-  "gamemode.sandbox.win": "PLACEHOLDER win",
-  "gamemode.sandbox.loss": "PLACEHOLDER loss",
+
 
   "gamemode.perfection.caps": "PERFECTION",
   "gamemode.perfection": "Perfection",
