@@ -710,6 +710,12 @@
   "settings.hideadvanced": "hide",
   "settings.showadvanced": "show",
 
+  "settings.scale.auto": "SETTINGS auto",
+  "settings.scale.small": "SETTINGS small",
+  "settings.scale.medium": "SETTINGS medium",
+  "settings.scale.large": "SETTINGS large",
+  "settings.scale.verylarge": "SETTINGS verylarge",
+
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
   "settings.soundeffects": "Sound Effects",
