@@ -700,6 +700,10 @@
   "gamestatus.tasks": "Tasks {0}/{1}",
   "gamestatus.tasks.complete": "Complete!",
 
+
+  "settings.hideadvanced": "hide",
+  "settings.showadvanced": "show",
+
   "settings.title": "SETTINGS",
   "settings.volume": "Audio volume {0}",
   "settings.soundeffects": "Sound Effects",
