@@ -43,11 +43,13 @@
   "news.description": "Vítame tě!\nZde najdeš nejnovější zprávy ze světa Polytopie Stay tuned! ",
   "gamemodepicker.title": "HERNÍ MÓD",
 
-  "tribepicker.title": "PICK YOUR TRIBE",
-  "tribepicker.categories.humantribes": "Regular Tribes",
-  "tribepicker.categories.specialtribes": "Special Tribes",
+  "tribepicker.title": "VYBER SI KMEN",
+  "tribepicker.categories.humantribes": "Základní kmeny",
+  "tribepicker.categories.specialtribes": "Speciální kmeny",
   "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",
   "tribepicker.categories.random": "Let fate decide!",
+
+
   "tribepicker.categories.random.button": "RANDOM TRIBE",
   "tribepicker.categories.random.selected.title": "Alakazam!",
   "tribepicker.categories.random.selected.text": "Random tribe selected",
